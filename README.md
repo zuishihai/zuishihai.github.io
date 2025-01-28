@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[China_zzk](https://s23908940086.guthub.io)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](http://s23908940086.github.io/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
@@ -50,14 +50,14 @@ Ports
 - Out of date. Helps wanted for updating it on par with the main repo
 
 Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
+- [🇨🇳  中文文档（有点过时）](https://github.com/s23908940086/s23908940086.github.io/blob/master/_doc/README.zh.md)
 
 
 License
 -------
 
 Apache License 2.0.
-Copyright (c) 2015-present Huxpro
+Copyright (c) 2025-present China_zzk
 
 Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+Copyright (c) 2025-2028 Blackrock Digital LLC.
