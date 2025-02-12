@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: s23908940086@qq.com
 description: "这里是 China_zzk 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "zzk, zz楷, Zhuo, 鬼栈, z楷, @China_zzk, zzk的博客, China_zzk, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://zzk6780051.github.io" # your host, for absolute URL
+url: "https://zzk6780051.us.kg" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -97,5 +97,5 @@ friends:
     { title: "SmdCn", href: "http://blog.smdcn.net" },
     { title: "JiyinYiyong", href: "http://tiye.me/" },
     { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "尹峰以为", href: "http://ingf.us.kg/" },
   ]

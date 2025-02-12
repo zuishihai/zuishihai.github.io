@@ -3,7 +3,7 @@
 
 > I never expected this to become popular.
 
-![](http://zzk6780051.github.io/img/blog-desktop.jpg)
+![](http://zzk6780051.us.kg/img/blog-desktop.jpg)
 
 
 [User Manual 👉](_doc/Manual.md)
@@ -50,7 +50,7 @@ Ports
 - Out of date. Helps wanted for updating it on par with the main repo
 
 Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/zzk6780051/zzk6780051.github.io/blob/master/_doc/README.zh.md)
+- [🇨🇳  中文文档（有点过时）](https://github.com/zzk6780051/zzk6780051.us.kg/blob/master/_doc/README.zh.md)
 
 
 License
